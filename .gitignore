@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Nodemon (For Development)
+nodemon.json
+
+# PM2 Config File (For Development)
+ecosystem.config.js
